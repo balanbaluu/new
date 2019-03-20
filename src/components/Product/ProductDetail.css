@@ -1,0 +1,18 @@
+.perimeter {
+    max-width: 1024px;
+    display: flex;
+    flex-direction: column;
+  }
+.copy {
+    padding: 20px;
+    font-family: sans-serif;
+  }
+  @media (min-width: 800px) {
+    .image {
+      flex: 0 0 66.5%;
+    }
+  }
+.hello{
+  margin: 0;
+  align-content: flex-end;
+}

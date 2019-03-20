@@ -1,0 +1,13 @@
+const type = {
+
+FETCH_POSTS: 'FETCH_POSTS',
+
+INCREMENT: 'INCREMENT',
+
+DECREMENT: 'DECREMENT',
+NEW_POST: 'NEW_POST',
+CART_ADD : 'cart/ADD',
+CART_REMOVE : 'cart/REMOVE'
+}
+
+export default type;

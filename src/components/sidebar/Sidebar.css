@@ -1,0 +1,13 @@
+#sidebar-left {
+    float:left;
+    width:15%;
+    height:1000px ;
+    background-color:white;
+    padding-top: 2%;
+  }
+
+  #sidebar-left a {
+    color:black;
+    text-decoration: none;
+  }
+   

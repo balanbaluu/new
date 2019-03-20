@@ -1,0 +1,45 @@
+th, td { 
+    width:250px; 
+    text-align:center; 
+    /* border:1px solid black;  */
+    padding:5px 
+  
+} 
+.style1 {
+    width: 600px;
+    margin-left: 0px;
+}
+ th {
+    background-color:#A9A9A9    ;
+    color:#fff;
+  }
+  
+  table tr {
+    border-bottom: 1px solid black;
+  }
+  .header {
+    border: 0;
+  }
+  
+ .subtotal{
+   padding: 20px;
+   padding-left: 770px;
+ }
+ .checkout{
+  padding: 40px;
+  padding-left: 900px;
+}
+ .button1 {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #e79822;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 30px;
+  padding: 20px;
+  width: 250px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
